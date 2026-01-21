@@ -193,7 +193,7 @@ The final dashboard integrates:
 
 This allows users to:
 
-* Compare financial performance by geography
+* Compare financial performance 
 * Analyze seasonal behavior
 * Drill down into specific markets and time periods
 
