@@ -27,6 +27,12 @@ To build a **financial analytics dashboard** that helps in:
 * Monitoring profitability at multiple levels (GP, EBITDA, OP, PBIT, NP)
 * Comparing **sales growth vs operating and marketing expenses**
 * Tracking **profit margins over time**
+*  Analyzing financial performance across:
+
+  * Regions
+  * Countries
+  * Quarters
+  * Months
 
 This type of analysis is commonly used in **FP&A (Financial Planning & Analysis)** and business finance teams.
 
